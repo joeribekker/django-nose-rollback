@@ -1,0 +1,4 @@
+/build
+/dist
+/django_nose_rollback.egg-info
+*.pyc
