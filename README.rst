@@ -13,7 +13,7 @@ To disable it, once the plugin is installed, use either the command line::
 
     --without-django-rollback
 
-or, set add it in your ``settings.py``:
+or, set add it in your ``settings.py``::
 
     NOSE_ARGS = ['--without-django-rollback']
 
